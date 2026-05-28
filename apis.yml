@@ -1,0 +1,32 @@
+aid: covid-19-tracker-canada
+name: COVID-19 Tracker Canada
+description: "Details on Covid-19 cases across Canada"
+url: https://api.covid19tracker.ca/docs/1.0/overview
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Health"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Health
+  - Public APIs
+apis:
+  - name: COVID-19 Tracker Canada
+    description: "Details on Covid-19 cases across Canada"
+    humanURL: https://api.covid19tracker.ca/docs/1.0/overview
+    baseURL: https://api.covid19tracker.ca/docs/1.0/overview
+    tags:
+      - Health
+    properties:
+      - type: Documentation
+        url: https://api.covid19tracker.ca/docs/1.0/overview
+common:
+  - type: Website
+    url: https://api.covid19tracker.ca/docs/1.0/overview
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
