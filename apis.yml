@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://api.covid19tracker.ca/docs/1.0/overview
 common:
+  - type: DomainSecurity
+    url: security/covid-19-tracker-canada-domain-security.yml
   - type: Website
     url: https://api.covid19tracker.ca/docs/1.0/overview
   - type: PublicAPIsListing
