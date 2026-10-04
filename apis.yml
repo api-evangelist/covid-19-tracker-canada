@@ -39,7 +39,6 @@ apis:
   - name: COVID-19 Tracker Canada
     description: "Details on Covid-19 cases across Canada"
     humanURL: https://api.covid19tracker.ca/docs/1.0/overview
-    baseURL: https://api.covid19tracker.ca/docs/1.0/overview
     tags:
       - Health
     properties:
